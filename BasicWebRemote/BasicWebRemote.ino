@@ -5,6 +5,7 @@
 
 // Add this library: https://github.com/markszabo/IRremoteESP8266
 #include <IRremoteESP8266.h>
+#include <IRsend.h> // small change to compile on IRremoteESP8266 2.0+
 
 #define IR_SEND_PIN D2
 
