@@ -1,3 +1,4 @@
+// Tested to work with Arduino IDE 1.9.5 and IRremoteESP8266 2.5.4-2.5.5 (25aa772)
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
